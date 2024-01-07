@@ -1,0 +1,2 @@
+# DiYa
+Okul Yönetin Sistemi
